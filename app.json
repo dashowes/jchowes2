@@ -1,0 +1,6 @@
+{
+  "name": "J.C. Howes",
+  "description": "Personal website for James Coleman Howes",
+  "repository": "https://github.com/dashowes/jchowes2",
+  "keywords": ["node", "express", "static"],
+}
