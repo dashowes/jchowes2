@@ -41,17 +41,22 @@ html {
   padding-bottom: 45px; }
   .hero-2 h1 {
   font-family: 'Space Mono', monospace; }
-  .hero-2 h3 {
+  .hero-2 a {
     font-family: 'Space Mono', monospace;
     color: #666666; 
-    border: 2px solid #c3c3c3; 
-    padding: 5px; }
-    .hero-2 h3:hover { 
-      border: 2px solid black;
-      padding: 5px; }
+/*    border: 2px solid #c3c3c3; 
+*/    padding: 3px; 
+    font-size: 1.55em;
+    margin-top: 2em;
+    margin-bottom: 2em;}
+    .hero-2 a:hover { 
+/*      border: 2px solid black;
+*/      text-decoration: none;
+      cursor: pointer; 
+      color: #c3c3c3;}
   .hero-2 .featurephoto { 
     border: 2px solid #666666; 
-    margin: 0; 
+    margin-bottom: 1em; 
     height: 355px;
     overflow: auto; }
   .hero-2 .featurephoto:hover {
