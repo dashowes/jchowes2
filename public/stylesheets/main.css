@@ -57,7 +57,7 @@ html {
   .hero-2 .featurephoto { 
     border: 2px solid #666666; 
     margin-bottom: 1em; 
-    height: 355px;
+    height: 275px;
     overflow: auto; }
   .hero-2 .featurephoto:hover {
     border: 2px solid #8ce0c9; }
